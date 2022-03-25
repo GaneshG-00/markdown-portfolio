@@ -1,1 +1,1 @@
-https://github.com/GaneshG-00
+![Github Profile](https://github.com/GaneshG-00)
